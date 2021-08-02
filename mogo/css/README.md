@@ -1,1 +1,0 @@
-My first training project. HTML and clean CSS were used only.
